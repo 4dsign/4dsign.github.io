@@ -65,7 +65,7 @@ p {
 }
 
 .navbar-brand:hover {
-    animation: pulse 0.666s!important; 
+    animation: pulse 0.666s; 
 }
 
 .navbar-brand {
@@ -77,4 +77,8 @@ p {
 
     padding-bottom: 0px!important;
   
+}
+
+.intro-section {
+ 
 }
