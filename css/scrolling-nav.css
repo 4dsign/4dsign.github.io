@@ -27,9 +27,7 @@ html {
     }
 }
 
-/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
-The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
-of those sections to manage the look and feel of the site. */
+/* 4DSIGN Webseite. */
 
 .intro-section {
     min-height: 100%;
@@ -39,6 +37,7 @@ of those sections to manage the look and feel of the site. */
     background-size: 100% auto!important;
     background-repeat: repeat-y!important;
 }
+
 
 .about-section {
     min-height: 100%;
@@ -74,4 +73,46 @@ background: -o-linear-gradient(top, rgba(255,255,255,1) 18%,rgba(183,183,183,1) 
 background: -ms-linear-gradient(top, rgba(255,255,255,1) 18%,rgba(183,183,183,1) 100%); /* IE10+ */
 background: linear-gradient(to bottom, rgba(255,255,255,1) 18%,rgba(183,183,183,1) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#b7b7b7',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+
+/* Stefan Dalcher Webseite. */
+
+.titel-section {
+    min-height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background-image: url(../img/bamboo.jpg)!important;
+    background-size: 100% auto!important;
+    background-repeat: repeat-y!important;
+}
+
+
+
+.mich-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+
+}
+
+
+.cv-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+
+}
+
+
+.skills-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+
 }
