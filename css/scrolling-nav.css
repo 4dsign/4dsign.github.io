@@ -36,6 +36,9 @@ html {
     background-image: url(../img/bgZÜRICH.jpg)!important;
     background-size: 100% auto!important;
     background-repeat: repeat-y!important;
+    -webkit-box-shadow: 0px 14px 5px 5px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 14px 5px 5px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 14px 5px 5px rgba(50, 50, 50, 0.75);
 }
 
 
